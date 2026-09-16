@@ -21,7 +21,8 @@ else:
 ```
 
 # Output
-![alt text](<Screenshot 2025-10-20 113002.png>)
+<img width="1227" height="298" alt="image" src="https://github.com/user-attachments/assets/ae540462-5313-4572-86b7-6c6f486f9322" />
+
 
 
 ## Result
